@@ -20,7 +20,7 @@ Nosso ecossistema de desenvolvimento é composto por:
   - PostgreSQL (Relacional)
 - **Mensageria**: RabbitMQ
 - **Serviços de Geolocalização**: Google Maps Platform
-- **Orquestração e Entregas**: Docker, CI/CD em breve
+- **Orquestração e Entregas**: Docker, CI/CD (em breve)
 
 ---
 
@@ -35,6 +35,16 @@ Somos uma equipe de 3 desenvolvedores comprometidos com a transformação digita
 - `/mobile-app` – Código do app em Flutter
 - `/web-app` – Página web institucional e administrativa (React)
 - `/backend-api` – API RESTful em Node.js com integração a bancos de dados e mensageria
+
+---
+
+## 📈 Estatísticas do Repositório
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pede-entrega&show_icons=true&count_private=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pede-entrega&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pede-entrega&layout=compact&theme=radical)
 
 ---
 
